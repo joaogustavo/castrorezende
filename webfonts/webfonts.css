@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
+
+
+
+@font-face {
+	font-family: 'myriad pro regular';
+	src: url('myriadpro-regular.eot');
+	src: url('myriadpro-regular.eot?#iefix') format('embedded-opentype'),
+		url('myriadpro-regular.woff') format('woff'),
+		url('myriadpro-regular.ttf') format('truetype'),
+		url('myriadpro-regular.svg') format('svg');
+}
